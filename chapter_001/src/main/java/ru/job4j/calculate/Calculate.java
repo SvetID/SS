@@ -1,7 +1,7 @@
 package ru.job4j.calculate;
 
 /**
- * @author SvetD
+ * @author SvetDI
  */
 public class Calculate {
     public static void main(String[] args) {
