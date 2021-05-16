@@ -13,4 +13,5 @@ public class CalculateTest {
         int result = calculate.plus(3, 4);
         Assert.assertThat(result, is(7));
     }
+
 }
